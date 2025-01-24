@@ -1,0 +1,33 @@
+.container {
+    max-width: 800px;
+    margin-top: 40px;
+}
+
+.header {
+    margin-bottom: 50px;
+}
+
+.section {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+.section h2 {
+    margin-bottom: 20px;
+}
+
+.btn-custom {
+    margin-top: 10px;
+}
+
+.logout-btn {
+    background-color: #f0ad4e;
+    border-color: #eea236;
+}
+
+.logout-btn:hover {
+    background-color: #ec971f;
+    border-color: #d58512;
+}

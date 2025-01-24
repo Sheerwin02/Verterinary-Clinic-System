@@ -1,0 +1,20 @@
+.dashboard-section {
+    margin-bottom: 30px;
+}
+
+.dashboard-card {
+    background: #f8f9fa;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    padding: 20px;
+}
+
+.dashboard-card h2 {
+    color: #007bff;
+}
+
+.dashboard-card a {
+    width: 100%;
+    margin-top: 10px;
+}
